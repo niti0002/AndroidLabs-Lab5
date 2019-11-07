@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/yourProfile" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/yourName" />
+
+    <EditText
+        android:id="@+id/userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="@string/enterName" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/yourEmail" />
+
+    <EditText
+        android:id="@+id/userProfileEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:hint="@string/enterEmail" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/yourPicture" />
+
+   <ImageButton
+       android:id="@+id/profilePictureButton"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:src="@android:drawable/picture_frame" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/clickPicButton" />
+
+    <Button
+        android:id="@+id/chatButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to chat"/>
+
+</LinearLayout>

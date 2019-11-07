@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Labs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\’m a button</string>
+    <string name="Header">Look at my GUI</string>
+    <string name="button2">Click Here</string>
+    <string name="check_box">Check this out!</string>
+    <string name="switch_on_off">Switch on / off</string>
+    <string name="type_here">Type Here</string>
+    <string name="enterEmailAddress">Enter your email address:</string>
+    <string name="typeEmail">Type email here</string>
+    <string name="enterPassword">Enter your password here:</string>
+    <string name="typePassword">Type password here</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="yourProfile">Your Profile</string>
+    <string name="yourName">Your name:</string>
+    <string name="enterName">Enter your name</string>
+    <string name="yourEmail">Your Email</string>
+    <string name="enterEmail">Enter your email</string>
+    <string name="yourPicture">Your picture:</string>
+    <string name="clickPicButton">Click the button above to take a picture</string>
+
+    <string name="sendButton">SEND</string>
+    <string name="receiveButton">RECEIVE</string>
+    <string name="textHint">Type Here</string>
+
+
+</resources>
+

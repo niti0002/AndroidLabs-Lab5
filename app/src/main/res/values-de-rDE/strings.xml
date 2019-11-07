@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Android Labs</string>
+    <string name="hello_message">Guten Tag!</string>
+    <string name="ButtonText">Ich bin ein Knopf</string>
+    <string name="Header">Schau dir meine GUI an</string>
+    <string name="button2">Klicke hier</string>
+    <string name="check_box">Überprüfen Sie dies heraus!</string>
+    <string name="switch_on_off">Ein-/ Ausschalten</string>
+    <string name="type_here">Hier eingeben</string>
+    <string name="enterEmailAddress">Geben sie ihre E-Mailadresse ein:</string>
+    <string name="typeEmail">Geben Sie hier eine E-Mail ein</string>
+    <string name="enterPassword">Geben Sie hier Ihr Passwort ein:</string>
+    <string name="typePassword">Geben Sie hier Ihr Passwort ein</string>
+    <string name="loginButton">ANMELDUNG</string>
+    <string name="yourProfile">Dein Profil</string>
+    <string name="yourName">Dein Name:</string>
+    <string name="enterName">Gib deinen Namen ein</string>
+    <string name="yourEmail">Deine E-Mail</string>
+    <string name="enterEmail">Geben sie ihre E-Mail Adresse ein</string>
+    <string name="yourPicture">Dein Bild:</string>
+    <string name="clickPicButton">Klicken Sie auf die Schaltfläche oben, um ein Bild aufzunehmen</string>
+
+    <string name="sendButton">SENDEN</string>
+    <string name="receiveButton">ERHALTEN</string>
+    <string name="textHint">Hier eingeben</string>
+
+</resources>
+
+
